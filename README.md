@@ -1,2 +1,2 @@
-# Projeto-de-Programa-o-3
-Projeto de Programação 3
+# Projeto-de-Programacao-3
+Projeto de Programacao 3
